@@ -1,0 +1,11 @@
+export const HERO_BG = "https://picsum.photos/seed/futuristic_technology_headphones/1600/900";
+export const SOLUTION_IMG = "https://picsum.photos/seed/contrast_mood/800/400";
+export const TECH_VOICE = "https://picsum.photos/seed/artificial_intelligence_wave/800/600";
+export const TECH_ADAPTIVE = "https://picsum.photos/seed/data_visualization_learning/800/600";
+export const TECH_FEEDBACK = "https://picsum.photos/seed/app_interface_feedback/800/600";
+export const CAREER_MODE = "https://picsum.photos/seed/office_meeting_business/800/600";
+export const LIFESTYLE_MODE = "https://picsum.photos/seed/travel_coffee_friends/800/600";
+export const ROLEPLAY_UI = "https://picsum.photos/seed/roleplay_chat_ui/800/400";
+export const USER_1 = "https://picsum.photos/seed/portrait_professional_woman/100/100";
+export const USER_2 = "https://picsum.photos/seed/portrait_happy_man/100/100";
+export const COMMUNITY_BG = "https://picsum.photos/seed/community_people/800/400";
